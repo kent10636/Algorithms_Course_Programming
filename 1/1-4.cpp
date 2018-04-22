@@ -3,7 +3,6 @@
 //       请给出一个时间代价为O(lgm+lgn)的算法找出这两个数组所有元素中的第k大的元素
 // NOT WORKING!未完成
 
-#include "stdafx.h"
 #include <iostream>
 #include <vector>
 

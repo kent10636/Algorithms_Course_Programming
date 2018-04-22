@@ -1,7 +1,6 @@
 // 功能：实现快速排序
 // 算法：快速排序
 
-#include "stdafx.h"
 #include <iostream>
 
 #define MAXSIZE 100

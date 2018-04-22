@@ -1,7 +1,6 @@
 // 功能：实现一个时间代价为nlgn的算法，给定数组S和整数x，判断数组中是否存在两个元素之和等于x
 // 算法：归并排序（递归），二分查找
 
-#include "stdafx.h"
 #include <iostream>
 
 #define MAXSIZE 100

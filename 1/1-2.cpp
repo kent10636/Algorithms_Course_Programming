@@ -2,7 +2,6 @@
 // 算法：max_heapify维持大顶堆的性质，build_max_heap建立大顶堆，heapsort堆排序（从小到大），
 //       heap_maximum，max_extract_max，heap_increase_key，max_heap_insert
 
-#include "stdafx.h"
 #include <iostream>
 #include <limits>
 
